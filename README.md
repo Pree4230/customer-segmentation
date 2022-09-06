@@ -1,1 +1,1 @@
-# customer-segmentation
+# customer-segmentation  and data analysis using R 
